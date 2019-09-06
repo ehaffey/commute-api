@@ -2,5 +2,6 @@
 
 class User < ApplicationRecord
   include Authentication
+  has_many :commutes
   has_many :examples
 end
