@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Rails.application.routes.draw do
-  resources :commutes, except: [:edit]
+  resources :commutes
   # RESTful routes
   resources :examples, except: %i[new edit]
 

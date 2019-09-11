@@ -46,6 +46,6 @@ class CommutesController < ProtectedController
 
     # Only allow a trusted parameter "white list" through.
     def commute_params
-      params.require(:commute).permit(:date, :method, :time, :user_id)
+      params.require(:commute).permit(:date, :mode, :time, :user_id)
     end
 end
