@@ -62,10 +62,6 @@ https://github.com/ehaffey/commute-api
 - As a user I want to be able to delete a commute in case I made an error
 - As a user I want to be able to logout
 
-#### ERD Wireframe
-
-https://drive.google.com/file/d/1-Ti5hTZcGwQDKKuzQyX3a2-TLLt8SHw_/view?usp=sharing
-
 
 #### Problem Solving Strategy
 
